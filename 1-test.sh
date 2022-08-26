@@ -1,3 +1,3 @@
 ls
 ls -l
-find
+find /opt
