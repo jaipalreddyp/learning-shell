@@ -1,2 +1,2 @@
-# learning-shell
-# Learning shell second line commit
+# roboshop-shell
+# Started writing script for roboshop project for test
